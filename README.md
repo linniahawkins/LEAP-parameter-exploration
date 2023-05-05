@@ -14,4 +14,4 @@ To run on the LEAP Jupyter Hub:
   git clone https://github.com/linniahawkins/LEAP-parameter-exploration.git
   
 3) activate environment
-  mamba env update -f dev.yml
+  mamba env update -f environment.yml
