@@ -1,4 +1,4 @@
-# LEAP-parameter-exploration
+# LEAP-parameter-estimation
 
 Shared repository developed by Linnia Hawkins and Qingyuan Yang, 2023
 
