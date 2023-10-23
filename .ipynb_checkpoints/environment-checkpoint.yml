@@ -1,0 +1,6 @@
+dependencies:
+ - tensorflow-probability
+ - gpflow
+ - pip:
+    - esem
+    - SALib
